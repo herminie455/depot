@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HPhilippe_DI_Tp3</string>
+
+    <string name="nom">Nom : Philippe</string>
+    <string name="ecole">École : Institut Grasset</string>
+    <string name="programme">Programme : DEC Informatique</string>
+    <string name="cours">Cours : Design Interface</string>
+    <string name="remise">TP3 remis à Pascal Guy</string>
+    <string name="dateRemise">Date de remise : 04/09/2020</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">HPhilippe_DI_Tp3</string>
+
+    <string name="nom">Last name : Philippe</string>
+    <string name="ecole">School : Institut Grasset</string>
+    <string name="programme">Program : DEC Computer Science</string>
+    <string name="cours">Course : Interface Design</string>
+    <string name="remise">Assignment 3 delivered to Pascal Guy</string>
+    <string name="dateRemise">Due date : 2020/09/04</string>
+
+
+</resources>
